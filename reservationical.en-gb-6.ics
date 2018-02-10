@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Booking.com\, b.v.//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:1841330324@booking.com
+ORGANIZER;CN=ROBIN MORET:mailto:
+DTSTAMP:20171109T225820Z
+DTSTART:20180420T140000
+DTEND:20180422T120000
+SUMMARY:Hotel Amiraute
+LOCATION:17 Rue Marechal Foch\, Cannes City-Centre\, Cannes\, 06400\, France
+GEO:43.553617955443;7.01856046915054
+URL:https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNiBW5vcmVmaE2IAQGYAQ24AQfIAQ3YAQHoAQH4AQuSAgF5qAID;sid=6f9879a464c5db9222c500b62306a3f4;auth_key=e1MW8nAqem3l9olE&
+DESCRIPTION:Arrival: Friday 20 April 2018, check-in after 14:00\n\nDeparture: Sunday 22 April 2018, check-out before 12:00\n\nYou can view, change or cancel your booking here
+END:VEVENT
+END:VCALENDAR
